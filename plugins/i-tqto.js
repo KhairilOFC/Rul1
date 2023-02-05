@@ -34,8 +34,8 @@ Irwan:
 https://github.com/irwanx
 Rasel:
 https://github.com/raselcomel
-Arull:
-https://github.com/Warikrr
+Vincenzoo`:
+https://github.com/KhairilOFC
 
 \`\`\`${conn.user.name}\`\`\`
 `,
