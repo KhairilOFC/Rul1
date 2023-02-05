@@ -18,7 +18,7 @@ ${user.banned ? 'kamu dibanned' : 'Ada yang bisa saya bantu?'}
 
 module.exports = handler
 function ucapan() {
-    const time = moment.tz('Asia/Jakarta').format('HH')
+    const time = moment.tz('Asia/Kuala_Lumpur').format('HH')
     res = "Selamat dinihari"
     if (time >= 4) {
         res = "Selamat pagi"
